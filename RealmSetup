@@ -1,0 +1,13 @@
+Realm Swift Terminal Instruction
+To do that you install it through ruby gems, like this:
+>>>>sudo gem install cocoapods
+If you don't have admin privileges, try:
+>>>>gem install cocoapods --user-install
+
+pod init
+open -a Xcode Podfile
+
+#For Swift 3.x
+>>>>>>pod 'Realm Swift' <<<<<<
+
+pod install or pod setup
