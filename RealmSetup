@@ -7,7 +7,7 @@ If you don't have admin privileges, try:
 pod init
 open -a Xcode Podfile
 
-#For Swift 3.x
+#For Project
 >>>>>>pod 'Realm Swift' <<<<<<
 
 pod install or pod setup
